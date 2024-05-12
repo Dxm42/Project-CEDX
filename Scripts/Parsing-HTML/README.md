@@ -13,3 +13,5 @@ $ ./script.sh URL
 <br>
 
 ![banner](./assets/banner.png)
+
+### **São Salvos 2 arquivos no diretório do script um contendo os "IPs" e outro com os SubDominíos encontrados "Hosts"**
